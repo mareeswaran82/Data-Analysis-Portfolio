@@ -16,7 +16,7 @@ Hey there! I'm **Mareeswaran**, a passionate **Data Analyst** 💡 exploring the
 📌 **Key Insights:**  
    - 🛫 Flight prices rise during peak seasons  
    - 💰 Business class fares are 3x higher than economy  
-📌 **[🔗 View Project](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/flight_price.ipynb)**  
+📌 **[🔗 View Project](flight price.ipynb)**  
 
 ---
 
