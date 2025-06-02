@@ -38,8 +38,7 @@ This project performs an exploratory data analysis (EDA) on a retail sales datas
 ## 🎯 Objective:
 To uncover patterns and trends in retail sales that can help improve business strategy and performance.
 
-## 📎 File:
-- `sales (1).ipynb`: Jupyter Notebook containing the complete EDA workflow
+## 📎 View Project : https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Cleaned_Sales_data.ipynb
 
 - # 3.Insurance Data Analysis
 
