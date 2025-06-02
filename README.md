@@ -60,8 +60,7 @@ This project provides an in-depth analysis of an insurance dataset. The analysis
 ## 🎯 Objective:
 To investigate the key factors that influence insurance charges and understand how different attributes impact the insurance costs.
 
-## 📎 File:
-- `Insuranc_data`: Jupyter Notebook containing the EDA process for the insurance dataset
+## View Project : https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Insurance%20data.ipynb
 
 ---
 
