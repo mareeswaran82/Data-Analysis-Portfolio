@@ -77,7 +77,7 @@ To investigate the key factors that influence insurance charges and understand h
 
 ### 🌍 **Let's Connect!**  
 📧 Email: mareeswaran824853@gmail.com
-📌 **[Linked In : https://www.linkedin.com/in/mareeswaran-m-b76604347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**  
+📌 **[Linked In](https://www.linkedin.com/in/mareeswaran-m-b76604347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**  
 📌 **[GitHub](https://github.com/mareeswaran82)**  
 
 ---
