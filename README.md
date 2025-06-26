@@ -38,7 +38,7 @@ This project performs an exploratory data analysis (EDA) on a retail sales datas
 ## 🎯 Objective:
 To uncover patterns and trends in retail sales that can help improve business strategy and performance.
 
-## 📎 View Project : https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Cleaned_Sales_data.ipynb
+## 📎 **[View Project](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Cleaned_Sales_data.ipynb)**
 
 - # 3.Insurance Data Analysis
 
@@ -60,7 +60,7 @@ This project provides an in-depth analysis of an insurance dataset. The analysis
 ## 🎯 Objective:
 To investigate the key factors that influence insurance charges and understand how different attributes impact the insurance costs.
 
-## View Project : https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Insurance%20data.ipynb
+## **[View Project](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Insurance%20data.ipynb)**
 
 ---
 
