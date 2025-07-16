@@ -62,7 +62,7 @@ These early mistakes helped me build this project with:
 ## 📁 Project Structure
 
 1. [Raw Data](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/01_raw%20virat%20kohlli%20data.csv)
-2. [EDA Notebook](02_EDA.ipynb)
+2. [EDA Notebook](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/02_Virat_Kohli_EDA.ipynb)
 3. [Cleaned Data](03_Cleaned_Raw_Data.csv)
 4. [Dashboard](04_Dashboard.pbix)
 5. [SQL Queries](05_SQL_Queries.sql)
