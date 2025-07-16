@@ -55,7 +55,7 @@ To uncover patterns and trends in retail sales that can help improve business st
 
 ## 📎 **[View Project](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Cleaned_Sales_data.ipynb)**
 
-- # Insurance Data Analysis
+## Insurance Data Analysis
 
 This project provides an in-depth analysis of an insurance dataset. The analysis explores the relationships between different variables such as age, charges, BMI, and more.
 
