@@ -11,7 +11,7 @@ Analyze Virat Kohli’s centuries to identify performance trends, strengths, and
 
 ---
 
-## 🔍 Case Questions Answered
+## Case Questions Answered
 
 | Question | Description |
 |----------|-------------|
@@ -71,5 +71,5 @@ These early mistakes helped me build this project with:
 ##  Connect with Me
 
 If you liked this project, feel free to explore more or reach out for collaborations!  
-📬 [https://www.linkedin.com/in/mareeswaran8248/]
+[https://www.linkedin.com/in/mareeswaran8248/]
 
