@@ -1,11 +1,15 @@
 
 Project Objective
 
+**This is a self-initiated project, inspired by my interest in Virat Kohli and cricket.
+I wanted to explore his performance using data, and thought it would be exciting to simulate a conversation with him through data analysis.
+This project is the result of that idea — made possible with the help of data analytics.**
+
 Analyze Virat Kohli’s centuries to identify performance trends, strengths, and patterns using real-world data analysis steps.
 
  Tools Used
 
-- **Python (Pandas, Matplotlib, Seaborn)** – EDA & feature creation
+- **Python (Pandas, Matplotlib, Seaborn)** – EDA & feature Engineering
 - **Power BI** – Dashboard creation and data visualization
 - **Google Colab** – For all Python-based analysis
 
