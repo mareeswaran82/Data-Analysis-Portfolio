@@ -1,6 +1,3 @@
-
-Project Objective
-
 **This is a self-initiated project, inspired by my interest in Virat Kohli and cricket.
 I wanted to explore his performance using data, and thought it would be exciting to simulate a conversation with him through data analysis.
 This project is the result of that idea — made possible with the help of data analytics.**
