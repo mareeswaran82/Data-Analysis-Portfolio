@@ -24,7 +24,7 @@ Analyze Virat Kohli’s centuries to identify performance trends, strengths, and
 
 ---
 
-## 🛠️ Data Cleaning & Feature Engineering
+##  Data Cleaning & Feature Engineering
 
 - Filled missing `Ground` values using `Venue`
 - Extracted `Year` from `Date`
@@ -35,7 +35,7 @@ Analyze Virat Kohli’s centuries to identify performance trends, strengths, and
 
 ---
 
-## 📈 Dashboard Highlights
+##  Dashboard Highlights
 
 - ✅ Card visuals: Total Centuries, Not Outs, Avg Runs
 - 📊 Bar charts: Centuries by Year, Ground, Opponent
@@ -43,7 +43,7 @@ Analyze Virat Kohli’s centuries to identify performance trends, strengths, and
 
 ---
 
-## 💡 What I Learned from My Mistakes
+##  What I Learned from My Mistakes
 
 Before this final project, I created:
 - 🏥 Insurance EDA (null handling confusion)
@@ -56,11 +56,11 @@ These early mistakes helped me build this project with:
 ✅ Structured case solving  
 ✅ Dashboard storytelling
 
-> 📌 This is my first complete **end-to-end** data analysis project with real learning impact.
+>  This is my first complete **end-to-end** data analysis project with real learning impact.
 
 ---
 
-## 🧠 Future Improvements
+##  Future Improvements
 
 - Add more visuals using Power BI  
 - Build ML prediction model on top of this data  
@@ -68,7 +68,7 @@ These early mistakes helped me build this project with:
 
 ---
 
-## 🔗 Connect with Me
+##  Connect with Me
 
 If you liked this project, feel free to explore more or reach out for collaborations!  
 📬 [https://www.linkedin.com/in/mareeswaran8248/]
