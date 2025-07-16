@@ -48,7 +48,7 @@ Analyze Virat Kohli’s centuries to identify performance trends, strengths, and
 Before this final project, I created:
 - 🏥 Insurance EDA (null handling confusion)
 - 📊 Sales Data (basic EDA, missing comments)
-- ✈️ Flight Price Prediction (no visualization, only features)
+- Flight Price Prediction (no visualization, only features)
 
 These early mistakes helped me build this project with:
 ✅ Proper data cleaning  
@@ -59,6 +59,14 @@ These early mistakes helped me build this project with:
 >  This is my first complete **end-to-end** data analysis project with real learning impact.
 
 ---
+## 📁 Project Structure
+
+1. [Raw Data](01_Raw_Data.csv)
+2. [EDA Notebook](02_EDA.ipynb)
+3. [Cleaned Data](03_Cleaned_Raw_Data.csv)
+4. [Dashboard](04_Dashboard.pbix)
+5. [SQL Queries](05_SQL_Queries.sql)
+
 
 ##  Future Improvements
 
@@ -71,5 +79,5 @@ These early mistakes helped me build this project with:
 ##  Connect with Me
 
 If you liked this project, feel free to explore more or reach out for collaborations!  
-[https://www.linkedin.com/in/mareeswaran8248/]
+**[Linkedin](https://www.linkedin.com/in/mareeswaran8248/)**
 
