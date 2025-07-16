@@ -22,7 +22,7 @@ Hey there! I'm **Mareeswaran**, a passionate **Data Analyst** 💡 exploring the
 **Key insights**
       1.Virat Kohli is not just a prolific century scorer, but also a reliable match-winner, especially in high-pressure situations and away conditions.
       2.Most centuries were scored against Australia, proving his performance in high-stakes games.
-**View Project(https://github.com/mareeswaran82/Data-Analysis-Portfolio/tree/main/Virat_Kohli_Centuries_Analysis)**      
+**[View Project](https://github.com/mareeswaran82/Data-Analysis-Portfolio/tree/main/Virat_Kohli_Centuries_Analysis)**      
 
 ###  Flight Price Prediction ✈️  
 📌 **Dataset:** Real-world Flight Price Data  
