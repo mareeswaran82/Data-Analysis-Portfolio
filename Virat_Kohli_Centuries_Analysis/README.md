@@ -66,7 +66,7 @@ These early mistakes helped me build this project with:
 3. [View Cleaned Data](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/03_Cleaned_raw_data.csv.csv)
 4. [View Dashboard Screenshot](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/04_Virat_kohli_dashboard.png)
 5. [View Interactive Dashboard](https://drive.google.com/file/d/1ppjvDEUBMgeZJ60Zo27h8ZiThYVLGFbv/view?usp=drive_link)
-6. [SQL Queries](05_SQL_Queries.sql)
+6. [SQL Queries](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/05_Virat_kohli_analysis_queries.sql)
 
 
 ##  Future Improvements
