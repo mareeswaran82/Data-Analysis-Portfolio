@@ -10,7 +10,21 @@ Hey there! I'm **Mareeswaran**, a passionate **Data Analyst** 💡 exploring the
 
 ## 🔥 My Data Projects  
 
-### 1️⃣ Flight Price Prediction ✈️  
+###  Virat Kohli Centuries Analysis - End to End Project
+**Objective**
+     Analyze Virat Kohli’s centuries to identify performance trends, strengths, and patterns using real-world data analysis steps.
+
+**Tools Used**
+     Data Cleaning,EDA,Feature Engineering **--** Python (Pandas,Seaborn,Matplotlib)
+     Data Visualization                    **--** Power BI (Dax,Charts)
+     Data extraction                       **--** SQL, MS SQL Server
+
+**Key insights**
+      1.Virat Kohli is not just a prolific century scorer, but also a reliable match-winner, especially in high-pressure situations and away conditions.
+      2.Most centuries were scored against Australia, proving his performance in high-stakes games.
+**View Project(https://github.com/mareeswaran82/Data-Analysis-Portfolio/tree/main/Virat_Kohli_Centuries_Analysis)**      
+
+###  Flight Price Prediction ✈️  
 📌 **Dataset:** Real-world Flight Price Data  
 📌 **Skills Used:** Pandas, Matplotlib, Seaborn, Machine Learning  
 📌 **Key Insights:**  
@@ -18,7 +32,7 @@ Hey there! I'm **Mareeswaran**, a passionate **Data Analyst** 💡 exploring the
    - 💰 Business class fares are 3x higher than economy  
 📌 **[🔗 View Project](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/flight%20price.ipynb)**
 
-# 2.Sales Data Analysis
+#   Sales Data Analysis
 
 This project performs an exploratory data analysis (EDA) on a retail sales dataset using Python. It includes data cleaning, transformation, and visualization to understand trends and derive actionable insights.
 
@@ -40,7 +54,7 @@ To uncover patterns and trends in retail sales that can help improve business st
 
 ## 📎 **[View Project](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Cleaned_Sales_data.ipynb)**
 
-- # 3.Insurance Data Analysis
+- #  Insurance Data Analysis
 
 This project provides an in-depth analysis of an insurance dataset. The analysis explores the relationships between different variables such as age, charges, BMI, and more.
 
