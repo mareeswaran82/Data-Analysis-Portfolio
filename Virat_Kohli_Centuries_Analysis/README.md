@@ -59,13 +59,14 @@ These early mistakes helped me build this project with:
 >  This is my first complete **end-to-end** data analysis project with real learning impact.
 
 ---
-## 📁 Project Structure
+## Project Structure
 
-1. [Raw Data](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/01_raw%20virat%20kohlli%20data.csv)
-2. [EDA Notebook](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/02_Virat_Kohli_EDA.ipynb)
-3. [Cleaned Data](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/03_Cleaned_raw_data.csv.csv)
-4. [Dashboard](04_Dashboard.pbix)
-5. [SQL Queries](05_SQL_Queries.sql)
+1. [View Raw Data](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/01_raw%20virat%20kohlli%20data.csv)
+2. [View EDA Notebook](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/02_Virat_Kohli_EDA.ipynb)
+3. [View Cleaned Data](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/03_Cleaned_raw_data.csv.csv)
+4. [View Dashboard Screenshot](https://github.com/mareeswaran82/Data-Analysis-Portfolio/blob/main/Virat_Kohli_Centuries_Analysis/04_Virat_kohli_dashboard.png)
+5. [View Interactive Dashboard]()
+6. [SQL Queries](05_SQL_Queries.sql)
 
 
 ##  Future Improvements
