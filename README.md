@@ -86,7 +86,7 @@ To investigate the key factors that influence insurance charges and understand h
 ---
 
 ### 📊 **Tech Stack & Tools**  
-✅ Python 🐍 ✅ Pandas 📊 ✅ SQL 🛢️ ✅ Power BI 📈 ✅ Matplotlib 📊 ✅ Seaborn 🎨  # Excel # Tableu 
+✅ Python 🐍 ✅ Pandas 📊 ✅ SQL 🛢️ ✅ Power BI 📈 ✅ Matplotlib 📊 ✅ Seaborn 🎨  # Excel # Tableau 
 
 ---
 
