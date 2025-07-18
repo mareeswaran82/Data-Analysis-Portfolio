@@ -6,7 +6,7 @@
 ---
 
 ## 🛠 Tech Stack:
-`Excel` `SQL` `Power BI` `Python` `Pandas` `NumPy` `Matplotlib` `Basic Statistics` `Seaborn` `Tableau` 
+`Excel` `SQL` `Power BI` `Python` `Pandas` `NumPy` `Matplotlib` `Basic Statistics` `Seaborn` `Tableau` `Scipy`
 
 ---
 
