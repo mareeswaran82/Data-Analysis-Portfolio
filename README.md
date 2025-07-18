@@ -20,10 +20,9 @@
 ## 💼 Featured Projects:
 | Project | Tools | Link |
 |--------|-------|------|
-| Virat Kohli Centuries Analysis | Python, Matplotlib | [View](link_here) |
-| Sales Dashboard (Excel) | Excel | [View](link_here) |
+| Virat Kohli Centuries Analysis | Python, SQL, Power BI | [View](link_here) |
+| Sales Dashboard (Excel) | Python | [View](link_here) |
 | Flight Price Prediction | Python | [View](link_here) |
-| Superstore Dashboard | Power BI | [View](link_here) |
 
 ---
 
