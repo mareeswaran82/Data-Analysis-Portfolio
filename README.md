@@ -30,3 +30,5 @@
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/mareeswaran8248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email : [mareeswaran824853@gmail.com](mareeswaran824853@gmail.com)
+
+- Open to freelance Projects,dashboard builds,EDA Tasks, and Analyst roles.
