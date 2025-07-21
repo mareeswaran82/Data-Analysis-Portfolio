@@ -8,7 +8,7 @@ I enjoy solving real-world problems with data, and I’m constantly exploring ne
 
 ## 🧠 Skills
 
-- **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn,scipy)
 - **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn
 - **Database**: SQL (MS SQL), Joins, Subqueries, Aggregations
 - **Data Cleaning**: Handling missing values, duplicates, label encoding
@@ -45,7 +45,7 @@ Cleaned and preprocessed messy flight price data by handling missing values, for
 📍 Location: India  
 📧 Email: mareeswaranofficial@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mareeswaran8248/)  
-📦 [More Projects Coming Soon!]
+📦 More Projects Coming Soon!
 
 ---
 
