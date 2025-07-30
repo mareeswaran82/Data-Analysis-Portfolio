@@ -16,10 +16,10 @@ I enjoy solving real-world problems with data, and I’m constantly exploring ne
 - **Version Control**: Git & GitHub
 
 ---
-## Currently learning skill 
+## 💻 Currently learning skill 
 -  Tableau
 ---
-## Future 
+## 🔜 Future 
 - My SQL
 - AWS
 - Snowflake
@@ -48,7 +48,7 @@ Cleaned and preprocessed messy flight price data by handling missing values, for
 
 ---
 
-## Currently Working Project 
+## 📂📌 Currently Working Project 
 - Sales data analysis **-** Power BI
 ---
 ## 📫 Contact
