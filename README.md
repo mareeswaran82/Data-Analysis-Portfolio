@@ -20,6 +20,7 @@ I enjoy solving real-world problems with data, and I’m constantly exploring ne
 -  Tableau
 ---
 ## Future 
+- My SQL
 - AWS
 - Snowflake
 - Machine learning
