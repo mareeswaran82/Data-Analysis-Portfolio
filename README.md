@@ -54,7 +54,7 @@ Cleaned and preprocessed messy flight price data by handling missing values, for
 ## 📫 Contact
 
 📍 Location: India  
-📧 Email: mareeswaranofficial@gmail.com  
+📧 Email: mareeswaran824853@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mareeswaran8248/)  
 📦 More Projects Coming Soon!
 
