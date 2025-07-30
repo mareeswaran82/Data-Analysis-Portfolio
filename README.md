@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio – Mareeswaran
 
-Hi there! 👋 I'm Mareeswaran, a passionate and aspiring **Data Analyst** with a strong foundation in **Mathematics** (B.Sc. Mathematics, May 2025). I specialize in turning raw data into meaningful insights using tools like **Python, SQL, Excel, Power BI, Tableau**, and more.
+Hi there! 👋 I'm Mareeswaran, a passionate and aspiring **Data Analyst** with a strong foundation in **Mathematics** (B.Sc. Mathematics, May 2025). I specialize in turning raw data into meaningful insights using tools like **Python, SQL, Excel, Power BI**, and more.
 
 I enjoy solving real-world problems with data, and I’m constantly exploring new techniques to make analysis clear, visual, and impactful for business stakeholders.
 
@@ -9,13 +9,20 @@ I enjoy solving real-world problems with data, and I’m constantly exploring ne
 ## 🧠 Skills
 
 - **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn,scipy)
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn
+- **Data Visualization**: Power BI, Matplotlib, Seaborn
 - **Database**: SQL (MS SQL), Joins, Subqueries, Aggregations
 - **Data Cleaning**: Handling missing values, duplicates, label encoding
 - **Spreadsheet Skills**: MS Excel (Pivot tables, VLOOKUP, Charts)
 - **Version Control**: Git & GitHub
 
 ---
+## Currently learning skill 
+-  Tableau
+---
+## Future 
+- AWS
+- Snowflake
+- Machine learning
 
 ## 📁 Projects
 
@@ -40,6 +47,9 @@ Cleaned and preprocessed messy flight price data by handling missing values, for
 
 ---
 
+## Currently Working Project 
+- Sales data analysis **-** Power BI
+---
 ## 📫 Contact
 
 📍 Location: India  
