@@ -10,20 +10,23 @@ I enjoy solving real-world problems with data, and I’m constantly exploring ne
 
 - **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn,scipy)
 - **Data Visualization**: Power BI, Matplotlib, Seaborn
-- **Database**: SQL (MS SQL), Joins, Subqueries, Aggregations
+- **Database**: SQL (MS SQL), Joins, Aggregations
 - **Data Cleaning**: Handling missing values, duplicates, label encoding
-- **Spreadsheet Skills**: MS Excel (Pivot tables, VLOOKUP, Charts)
+- **Spreadsheet Skills**: MS Excel (Pivot tables,Charts)
 - **Version Control**: Git & GitHub
 
 ---
 ## 💻 Currently learning skill 
--  Tableau
+-  Advanced Power BI 
+-  Power BI Service 
 ---
 ## 🔜 Future 
+- Tableau 
 - My SQL
 - AWS
 - Snowflake
 - Machine learning
+- App development using python 
 
 ## 📁 Projects
 
@@ -45,6 +48,11 @@ Performed exploratory data analysis on sales data, identifying patterns and insi
 **Tools Used**: Python (Data Cleaning, Label Encoding)  
 Cleaned and preprocessed messy flight price data by handling missing values, formatting, and encoding categorical features.  
 🔗 [Project Link](https://github.com/mareeswaran82/Flight-data-cleaning-)
+
+### 4.🧾 Store Data Analysis 
+**Tools Used**: Power BI, Power query editor,DAX,Data transformation, Data visualization 
+Handled 4 tables.Applied Join functions for making relationship between tables.Applied data transformation techniques.Finally create interactive dashboard.
+🔗[Project Link](https://github.com/mareeswaran82/Store-Data-Analysis-)
 
 ---
 
