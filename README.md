@@ -57,7 +57,7 @@ Handled 4 tables.Applied Join functions for making relationship between tables.A
 ---
 
 ## 📂📌 Currently Working Project 
-- Sales data analysis **-** Power BI
+- Insurance data analysis **-** Power BI
 ---
 ## 📫 Contact
 
