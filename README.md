@@ -60,6 +60,7 @@ Handled 4 tables.Applied Join functions for making relationship between tables.A
 - Insurance data analysis **-** Power BI
 ---
 ### Achievement 
+### Own Prompt ( Use any GPT's and Gemini ) 
 **Act like a professional instructor from an IT training institute**.**I am your student...you are my professional instructor...** **Mention academic background[Your academic background], including the degree and subject you studied, and your graduation month and year.[completed month and year]**
 **State that you provide a structured and guided learning experience in [Course Name], with a total duration of [course duration] months, aimed specifically at fresher job placements.**
 **The course includes:
