@@ -64,7 +64,7 @@ Handled 4 tables.Applied Join functions for making relationship between tables.A
 **Act like a professional instructor from an IT training institute**.**I am your student...you are my professional instructor...** **Mention academic background[Your academic background], including the degree and subject you studied, and your graduation month and year.[completed month and year]**
 **State that you provide a structured and guided learning experience in [Course Name], with a total duration of [course duration] months, aimed specifically at fresher job placements.**
 **The course includes:
-Daily 5-hour classes
+Daily 2-hour classes
 Doubt-clearing sessions
 Real-time end-to-end project sources (minimum 4–6 projects) with your direct guidance
 Also include:
