@@ -1,19 +1,9 @@
-# 📊 Data Analyst Portfolio – Mareeswaran
+# 📊 IT Trainer Portfolio – Mareeswaran
 
-Hi there! 👋 I'm Mareeswaran, a passionate and aspiring **Data Analyst** with a strong foundation in **Mathematics** (B.Sc. Mathematics, May 2025). I specialize in turning raw data into meaningful insights using tools like **Python, SQL, Excel, Power BI**, and more.
-
-I enjoy solving real-world problems with data, and I’m constantly exploring new techniques to make analysis clear, visual, and impactful for business stakeholders.
+Hi there! 👋 I'm Mareeswaran, a passionate and aspiring **IT Trainer** with a strong foundation in **Mathematics** (B.Sc. Mathematics, May 2025).I am an IT Trainer passionate about helping students and freshers build strong programming skills through practical, project-based learning. I specialize in Full Stack Development and Data Analytics, focusing on industry-ready concepts and real-world applications.
 
 ---
 
-## 🧠 Skills
-
-- **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn,scipy)
-- **Data Visualization**: Power BI, Matplotlib, Seaborn
-- **Database**: SQL (MS SQL), Joins, Aggregations
-- **Data Cleaning**: Handling missing values, duplicates, label encoding
-- **Spreadsheet Skills**: MS Excel (Pivot tables,Charts)
-- **Version Control**: Git & GitHub
 
 ---
 ## 💻 Currently learning skill 
