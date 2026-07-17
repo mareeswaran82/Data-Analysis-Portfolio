@@ -4,8 +4,11 @@ Hi there! 👋 I'm Mareeswaran, a passionate and aspiring **IT Trainer** with a 
 
 ---
 ## Skills :
-
-
+- ## Programming Language : Python,Java Basics
+- ## Database - Mysql
+- ## Frontend - HTML,CSS,JS,DOM,JQUERY selectors , Bootstrap Integration
+- ## Backend - Django,Springboot(Spring Data JPA,Spring Boot Security, JWT Authentication)
+- ## Analytics - Power BI(Power Query Editor,Dax,Data Visualization),Numpy,Pandas
 ---
 ## 💻 Currently learning skill 
 -  Advanced Power BI 
