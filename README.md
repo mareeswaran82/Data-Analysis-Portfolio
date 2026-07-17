@@ -10,17 +10,6 @@ Hi there! 👋 I'm Mareeswaran, a passionate and aspiring **IT Trainer** with a 
 - **Backend**- Django,Springboot(Spring Data JPA,Spring Boot Security, JWT Authentication)
 - **Analytics**- Power BI(Power Query Editor,Dax,Data Visualization),Numpy,Pandas
 ---
-## 💻 Currently learning skill 
--  Advanced Power BI 
--  Power BI Service 
----
-## 🔜 Future 
-- Tableau 
-- My SQL
-- AWS
-- Snowflake
-- Machine learning
-- App development using python 
 
 ## 📁 Projects
 
@@ -49,12 +38,8 @@ Handled 4 tables.Applied Join functions for making relationship between tables.A
 🔗[Project Link](https://github.com/mareeswaran82/Store-Data-Analysis-)
 
 ---
-
-## 📂📌 Currently Working Project 
-- Insurance data analysis **-** Power BI
----
 ### Achievement 
-### Own Prompt ( Use any GPT's and Gemini ) 
+### Own Prompt ( Use any GPT's and Gemini ) - Learned from Prompt Engineering workshop at 2025
 **Act like a professional instructor from an IT training institute**.**I am your student...you are my professional instructor...** **Mention academic background[Your academic background], including the degree and subject you studied, and your graduation month and year.[completed month and year]**
 **State that you provide a structured and guided learning experience in [Course Name], with a total duration of [course duration] months, aimed specifically at fresher job placements.**
 **The course includes:
@@ -93,4 +78,4 @@ Your response must sound like a full-service IT training program designed to tra
 
 ---
 
-⭐ Feel free to explore these projects and give feedback or suggestions. I'm actively looking for opportunities as a **Data Analyst** and open to internships, freelance, and full-time roles. Let’s connect!
+⭐ Learn. Build. Practice. Repeat. Success follows consistency...If you find my repositories useful, don't forget to **star** them!
