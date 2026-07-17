@@ -3,6 +3,7 @@
 Hi there! 👋 I'm Mareeswaran, a passionate and aspiring **IT Trainer** with a strong foundation in **Mathematics** (B.Sc. Mathematics, May 2025).I am an IT Trainer passionate about helping students and freshers build strong programming skills through practical, project-based learning. I specialize in Full Stack Development and Data Analytics, focusing on industry-ready concepts and real-world applications.
 
 ---
+## Skills :
 
 
 ---
